@@ -15,4 +15,5 @@ It's pretty simple to set up so here we go:
 
 # Troubleshooting
 1) My brake light goes on when I hit the gas :)
+
 Solution: Scroll down to the other marked line in the code and replace the ">" with an "<"... Upload and you are good to go. 
