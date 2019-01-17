@@ -5,7 +5,7 @@ The shematic can be found here:
 It's pretty simple to set up so here we go:
 
 # Setup
-1) Download the lastest firmware from the release tap: 
+1) Download the lastest firmware from the release tab: 
 2) Unzip the downloaded archive.Install Arduino IDE and the FASTLED Library (if you don't know how to just do a quick little google search)
 3) Connect your arduino to the comupter and upload the pwm_readout programm. Now open up the serial monitor using a baudrate of 11520.
 4) Disable autoscroll and note down the value your are given. Now add 5 to your given number.
