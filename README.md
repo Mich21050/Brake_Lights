@@ -5,9 +5,9 @@ The schematic can be found here:  https://easyeda.com/mich21050/light_controll_b
 It's pretty simple to set up so here we go:
 
 # Setup
-1) Download the lastest firmware from the release tab: 
-2) Unzip the downloaded archive.Install Arduino IDE and the FASTLED Library (if you don't know how to just do a quick little google search)
-3) Connect your arduino to the comupter and upload the pwm_readout programm. Now open up the serial monitor using a baudrate of 11520.
+1) Download the latest firmware from the release tab: 
+2) Unzip the downloaded archive. Install Arduino IDE and the FASTLED Library (if you don't know how to just do a quick little google search)
+3) Connect your arduino nano to the computer and upload the pwm_readout programm. Now open up the serial monitor using a baudrate of 11520.
 ![Screenshot_1](https://github.com/Mich21050/Brake_Lights/blob/master/Pictures/Screenshot_1.png)
 4) Disable autoscroll and note down the lowest value your are given (there might be a bunch). Now subtract 10-15 from your given number.
 5) Now you open the vXX file and replace the generic value that is next to "on" (the line is marked) with your own number.
