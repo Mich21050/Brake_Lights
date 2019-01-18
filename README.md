@@ -23,3 +23,9 @@ It's pretty simple to set up so here we go:
 1) My brake light goes on when I hit the gas :)
 
 Solution: Scroll down to the other marked line in the code and replace the "<" with an ">"... Upload and you are good to go. 
+
+
+
+# To-do
+1) Add an option to turn on/off aditional led lights underneath your board using the 3rd remote channel.
+2) Add horn support :)
