@@ -24,6 +24,8 @@ It's pretty simple to set up so here we go:
 
 Solution: Scroll down to the other marked line in the code and replace the "<" with an ">"... Upload and you are good to go. 
 
+![2png](https://github.com/Mich21050/Brake_Lights/blob/master/Pictures/2.png)
+
 
 
 # To-do
