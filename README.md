@@ -12,7 +12,7 @@ It's pretty simple to set up so here we go:
 4) Disable autoscroll and note down the lowest value your are given (there might be a bunch). Now subtract 10-15 from your given number.
 5) Now you open the vXX file and replace the generic value that is next to "on" (the line is marked) with your own number.
 
-![Screenshot_3](https://github.com/Mich21050/Brake_Lights/blob/master/Pictures/Screenshot_3.png)
+![1png](https://github.com/Mich21050/Brake_Lights/blob/master/Pictures/1png.png)
 
 5) Replace the number next to "NUM_LEDS_PER_STRIP" with your count of leds per strip. For example I'm using two 5 led strips for the front and two 5 led strips in the back so my number is 10. If you only use one your number would be five and so on.
 
