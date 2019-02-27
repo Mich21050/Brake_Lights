@@ -1,7 +1,7 @@
 # Introduction:
 This is the firmware for my open source pwm controlled brake module. It's designed with esk8 in mind but can be widely adapted.
 Is has an 5V 3A onboard buck converter and an Atmega328p to controll it all. 
-The schematic can be found here:  https://easyeda.com/mich21050/light_controll_basic
+The schematic can be found here:  https://easyeda.com/mich21050/light_controll_smd
 It's pretty simple to set up so here we go:
 
 # Setup
@@ -29,7 +29,7 @@ Solution: Scroll down to the other marked line in the code and replace the "<" w
 
 
 # To-do
-1) Add an option to turn on/off aditional led lights underneath your board using the 3rd remote channel.
+1) Need to rewrite the setup tutorial.. :)
 2) Add horn support :)
 
 
