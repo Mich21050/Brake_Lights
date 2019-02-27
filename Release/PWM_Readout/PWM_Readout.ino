@@ -1,3 +1,5 @@
+//open source esk8 brake light controller by Mich21050//
+
 int pin = A1;
 int pwm_value;
 void setup() {
