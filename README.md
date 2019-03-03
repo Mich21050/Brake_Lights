@@ -9,7 +9,7 @@ It's pretty simple to set up so here we go:
 2) Unzip the downloaded archive. Install Arduino IDE and the FASTLED Library (if you don't know how to just do a quick little google search). Now run the "hardware_bat" file.
 3) Connect your USB-Uart board with your controller and upload the PWM_Readout.ino script . Now open up the serial monitor using a baudrate of 11520.
 ![Screenshot_1](https://github.com/Mich21050/Brake_Lights/blob/master/Pictures/Screenshot_1.png)
-4) Disable autoscroll and note down the lowest value your are given (there might be a bunch). Now subtract 10-15 from your given number.
+4) Disable autoscroll and hit the brake on your remote control. Now note down the lowest value your are given (there might be a bunch). Now subtract 10-15 from your given number.
 5) Now you open up the light_control file and open the config.h file.  Now replace the generic value that is next to "threshold" (the line is marked) with your own number.
 
 ![3pic](https://github.com/Mich21050/Brake_Lights/blob/master/Pictures/3pic.png)
