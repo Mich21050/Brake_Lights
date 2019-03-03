@@ -12,7 +12,7 @@ It's pretty simple to set up so here we go:
 4) Disable autoscroll and note down the lowest value your are given (there might be a bunch). Now subtract 10-15 from your given number.
 5) Now you open up the light_control file and open the config.h file.  Now replace the generic value that is next to "threshold" (the line is marked) with your own number.
 
-![1png](https://github.com/Mich21050/Brake_Lights/blob/master/Pictures/1png.png)
+![3pic](https://github.com/Mich21050/Brake_Lights/blob/master/Pictures/3pic.png)
 
 5) Replace the number next to "num_front" with your led count on the front led strip. Now do the same for the "num_back" value. For example: I'm using @mmaner's led mount so 8 leds in the front and 8 leds in the back. So my "num_back" and "num_front" value would be 8.
 
